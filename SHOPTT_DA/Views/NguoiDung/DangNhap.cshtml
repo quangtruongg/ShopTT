@@ -1,0 +1,90 @@
+﻿@model SHOPTT_DA.Models.KhachHang
+@{
+    ViewBag.Title = "DangNhap";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div id="login">
+
+        <div class="container">
+            <div id="login-row" class="row justify-content-center align-items-center">
+                <div id="login-column" class="col-md-6">
+                    <div id="login-box" class="col-md-12">
+                        <form id="login-form" class="form" action="" method="post">
+                            
+                            <div class="title">
+                                <h3 class="text-left text-info">ĐĂNG NHẬP</h3>
+                                <a href="@Url.Action("DangKy", "NguoiDung")" class="text-info" style="margin-top:23px; font-size:17px; text-decoration:none;">Đăng ký</a>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="tenDangNhap" class="text-info"> Tên đăng nhập</label><br>
+
+                                <div>
+                                    @Html.EditorFor(model => model.tenDangNhap, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.tenDangNhap, "", new { @class = "text-danger" })
+                                </div>
+
+                            </div>
+                            <div class="form-group">
+                                <label for="matKhau" class="text-info"> Mật khẩu</label><br>
+                                <div>
+                                    @Html.EditorFor(model => model.matKhau, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.matKhau, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="remember-me" class="text-info"><span>Nhớ mật khẩu?</span> <span><input id="remember-me" name="remember-me" type="checkbox"></span></label><br>
+                                <input type="submit" name="submit" class="btn btn-info btn-md " value="Đăng nhập">
+                                <a href="@Url.Action("Index", "Sneaker")" class="btn btn-info btn-md">Trở lại</a>
+
+                            </div>
+                            
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: black;
+        height: 100vh;
+        display: block;
+        
+    }
+
+    #login .container #login-row #login-column #login-box {
+        margin-top: 120px;
+        margin-left: 280px;
+        max-width: 600px;
+        height: 320px;
+        border: 1px solid #9C9C9C;
+        background-color: #EAEAEA;
+    }
+    
+   .title{
+       display:flex;
+       justify-content:space-between;
+   } 
+   
+   
+
+        #login .container #login-row #login-column #login-box #login-form {
+            padding: 20px;
+            position: center;
+        }
+
+            #login .container #login-row #login-column #login-box #login-form #register-link {
+                margin-top: -85px;
+            }
+</style>

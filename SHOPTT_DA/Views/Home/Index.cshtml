@@ -1,0 +1,37 @@
+﻿@model IEnumerable<SHOPTT_DA.Models.SanPham>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>Danh sách sản phẩm</h2>
+<a class="btn btn-success" href="@Url.Action("Create", "Home")">Thêm sản phẩm</a> <br />
+<a>&nbsp;</a>
+<table border="5" style="text-align:center" width="100%"  >
+    <tr >
+        <th style="text-align:center" width="16%"> Tên sản phẩm </th>
+        <th style="text-align:center" width="16%"> Hình</th>
+        <th style="text-align:center" width="16%" > Loại </th>
+        <th style="text-align:center" width="16%"> Thương hiệu</th>
+        <th style="text-align:center" width="16%"> Giá </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.tenSP)</td>
+            <td><img src="@item.hinh" alt="hinh thumbnail" width="200px" height="200px" /></td>
+            <td>@Html.DisplayFor(modelItem => item.LoaiSP.tenLoai)</td>
+            <td>@Html.DisplayFor(modelItem => item.ThuongHieu.tenThuongHieu)</td>
+            <td>@Html.DisplayFor(modelItem => item.giaBan)</td>
+            <td>
+                
+                <a class="btn btn-warning" href="@Url.Action("Edit", "Home",
+                                new { @id = item.maSP })">Edit</a> |
+                <a class="btn btn-danger" href="@Url.Action("Delete", "Home",
+                                new { @id = item.maSP })">Delete</a>
+
+            </td>
+        </tr>
+    }
+</table>
+

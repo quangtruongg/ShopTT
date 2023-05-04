@@ -1,0 +1,418 @@
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.dll.config
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.pdb
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.exe
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.exe.config
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.rsp
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.exe
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.exe.config
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.rsp
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.AppContext.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Collections.Immutable.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Console.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Globalization.Calendars.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.Compression.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.FileSystem.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Net.Http.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Net.Sockets.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Reflection.Metadata.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.ValueTuple.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XPath.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.exe
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.exe.config
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.rsp
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\VBCSCompiler.exe
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\roslyn\VBCSCompiler.exe.config
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\Antlr3.Runtime.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.Web.Infrastructure.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\Newtonsoft.Json.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Helpers.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Mvc.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Optimization.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Razor.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Deployment.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Razor.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\WebGrease.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Helpers.xml
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Mvc.xml
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Optimization.xml
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Razor.xml
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.xml
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Deployment.xml
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Razor.xml
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\Newtonsoft.Json.xml
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\Antlr3.Runtime.pdb
+C:\do an\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\do an\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.csproj.CoreCompileInputs.cache
+C:\do an\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.csproj.CopyComplete
+C:\do an\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.dll
+C:\do an\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.pdb
+C:\do an\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.dll.config
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.pdb
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.exe
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.exe.config
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.rsp
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.exe
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.exe.config
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.rsp
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.AppContext.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Console.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.Compression.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Net.Http.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.ValueTuple.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.exe
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.exe.config
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.rsp
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\VBCSCompiler.exe
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\Antlr3.Runtime.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\Newtonsoft.Json.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Helpers.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Mvc.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Optimization.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Razor.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Razor.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\WebGrease.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Helpers.xml
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Mvc.xml
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Optimization.xml
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Razor.xml
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.xml
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Razor.xml
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\Newtonsoft.Json.xml
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\Antlr3.Runtime.pdb
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.csproj.CopyComplete
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.dll
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.pdb
+C:\Users\My Laptop\Desktop\Lập Trình Web\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.csproj.AssemblyReference.cache
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.dll.config
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.pdb
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.exe
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.exe.config
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.rsp
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.exe
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.exe.config
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.rsp
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.AppContext.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Console.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.Compression.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Net.Http.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.ValueTuple.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.exe
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.exe.config
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.rsp
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\VBCSCompiler.exe
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Antlr3.Runtime.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Newtonsoft.Json.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\PagedList.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\PagedList.Mvc.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Helpers.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Mvc.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Optimization.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Razor.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Razor.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\WebGrease.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\PagedList.xml
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\PagedList.Mvc.xml
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Helpers.xml
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Mvc.xml
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Optimization.xml
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Razor.xml
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.xml
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Razor.xml
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Newtonsoft.Json.xml
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Antlr3.Runtime.pdb
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.csproj.CoreCompileInputs.cache
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.csproj.CopyComplete
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.dll
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.pdb
+C:\Users\quang\OneDrive\Máy tính\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.csproj.AssemblyReference.cache
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.dll.config
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.pdb
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.exe
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.exe.config
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.rsp
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.exe
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.exe.config
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.rsp
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.AppContext.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Console.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.Compression.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Net.Http.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.ValueTuple.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.exe
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.exe.config
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.rsp
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\VBCSCompiler.exe
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Antlr3.Runtime.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Newtonsoft.Json.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\PagedList.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\PagedList.Mvc.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Helpers.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Mvc.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Optimization.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Razor.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Razor.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\WebGrease.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\PagedList.xml
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\PagedList.Mvc.xml
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Helpers.xml
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Mvc.xml
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Optimization.xml
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Razor.xml
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.xml
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Razor.xml
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Newtonsoft.Json.xml
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Antlr3.Runtime.pdb
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.csproj.CoreCompileInputs.cache
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.csproj.CopyComplete
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.pdb
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Net.Http.Formatting.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Http.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Http.WebHost.dll
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Net.Http.Formatting.xml
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Http.xml
+C:\Users\huuda\Downloads\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.dll.config
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\SHOPTT_DA.pdb
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\PagedList.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\PagedList.Mvc.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Http.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\WebGrease.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\PagedList.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\PagedList.Mvc.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Http.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.csproj.CopyComplete
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.dll
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.pdb
+C:\Users\admin\Desktop\SHOPTT_DA2\SHOPTT_DA\SHOPTT_DA\SHOPTT_DA\obj\Debug\SHOPTT_DA.csproj.AssemblyReference.cache

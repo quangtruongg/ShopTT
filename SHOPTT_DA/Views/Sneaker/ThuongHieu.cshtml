@@ -1,0 +1,11 @@
+﻿@model IEnumerable<SHOPTT_DA.Models.ThuongHieu>
+
+<p class="lead">Thương hiệu</p>
+<div class="list-group">
+    @foreach (var item in Model)
+    {
+        <a href="@Url.Action("SPTheoTH", "Sneaker", new { id = item.maThuongHieu})" class="list-group-item">
+            @item.tenThuongHieu
+        </a>
+    }
+</div>

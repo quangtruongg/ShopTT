@@ -1,0 +1,80 @@
+﻿@model SHOPTT_DA.Models.SanPham
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Bạn có muốn xóa sản phẩm này?</h2>
+
+<div>
+    <h4>Thông tin sản phẩm</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            <label >Tên loại</label>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LoaiSP.tenLoai)
+        </dd>
+
+        <dt>
+            <label>Tên thương hiệu</label>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ThuongHieu.tenThuongHieu)
+        </dd>
+
+        <dt>
+            <label>Tên sản phẩm</label>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tenSP)
+        </dd>
+
+        <dt>
+            <label>Hình</label>
+        </dt>
+
+        <dd>
+            <img src="@Html.DisplayFor(model => model.hinh)" />
+        </dd>
+
+        <dt>
+            <label>Giá bán</label>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.giaBan)
+        </dd>
+
+        <dt>
+            <label>Ngày cập nhật</label>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngayCapNhat)
+        </dd>
+
+        <dt>
+            <label>Mô tả sản phẩm</label>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.moTa)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            @Html.ActionLink("Quay lại", "Index")
+        </div>
+    }
+</div>

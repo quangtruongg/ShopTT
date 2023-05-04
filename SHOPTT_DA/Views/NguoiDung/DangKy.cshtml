@@ -1,0 +1,240 @@
+﻿@model SHOPTT_DA.Models.KhachHang
+
+@{
+    ViewBag.Title = "DangKy";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+@*<h2>DangKy</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>KhachHang</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.tenKH, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.tenKH, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.tenKH, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.sDT, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.sDT, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.sDT, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.tenDangNhap, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.tenDangNhap, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.tenDangNhap, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.matKhau, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.matKhau, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.matKhau, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2" for="MatKhauXacNhan">
+                Mật khẩu xác nhận:
+            </label>
+            <div class="col-md-10">
+                <input class="form-control text-box single-line input-validation-error"
+                       data-val="true" data-val-required="Phải nhập mật khẩu xác nhận!"
+                       id="MatkhauXacNhan" name="MatKhauXacNhan" type="password" value="" aria-
+                       describedby="MatkhauXacNhan-error" aria-invalid="true">
+                @ViewData["NhapMKXN"]
+                @ViewData["MatKhauGiongNhau"]
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.email, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.email, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.diaChi, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.diaChi, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.diaChi, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ngaySinh, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ngaySinh, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ngaySinh, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>*@
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div id="login">
+
+        <div class="container">
+            <div id="login-row" class="row justify-content-center align-items-center">
+                <div id="login-column" class="col-md-6">
+                    <div id="login-box" class="col-md-12">
+                        <form id="login-form" class="form" action="" method="post">
+                            <div class="title">
+                                <h3 class="text-left text-info">ĐĂNG KÝ</h3>
+                                <a href="@Url.Action("DangNhap", "NguoiDung")" class="text-info" style="margin-top:23px; font-size:17px; text-decoration:none;">Đăng nhập</a>
+                            </div>
+                            <div class="form-group">
+                                <label for="tenDangNhap" class="text-info"> Tên khách hàng</label><br>
+
+                                <div>
+                                    @Html.EditorFor(model => model.tenKH, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.tenKH, "", new { @class = "text-danger" })
+                                </div>
+
+                            </div>
+
+                            <div class="form-group">
+                                <div style="display:flex; justify-content:space-between">
+                                    <label for="matKhau" class="text-info"> Ngày sinh </label>
+                                    <label for="matKhau" class="text-info"> Số điện thoại</label><br />
+                                </div>
+                                <div style="display :flex; justify-content:space-between;">
+                                    @Html.EditorFor(model => model.ngaySinh, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.ngaySinh, "", new { @class = "text-danger" })
+                                    @Html.EditorFor(model => model.sDT, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.sDT, "", new { @class = "text-danger" })
+                                </div>
+                                
+                                
+                            </div>
+
+                            
+
+                            <div class="form-group">
+                                <label for="tenDangNhap" class="text-info"> Địa chỉ</label><br>
+
+                                <div>
+                                    @Html.EditorFor(model => model.diaChi, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.diaChi, "", new { @class = "text-danger" })
+                                </div>
+
+                            </div>
+
+
+                            <div class="form-group">
+                                <label for="tenDangNhap" class="text-info"> Email</label><br>
+
+                                <div>
+                                    @Html.EditorFor(model => model.email, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+                                </div>
+
+                            </div>
+                            <div class="form-group">
+                                <label for="matKhau" class="text-info"> Tên đăng nhập</label><br>
+                                <div>
+                                    @Html.EditorFor(model => model.tenDangNhap, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.tenDangNhap, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+
+                            <div class="form-group" >
+                                <label for="matKhau" class="text-info"> Mật khẩu</label><br>
+                               
+                                <div>
+                                    <input class="form-control text-box single-line input-validation-error"
+                                           data-val="true" data-val-required="Phải nhập mật khẩu xác nhận!"
+                                           id="matKhau" name="matKhau" type="password" value="" aria-
+                                           describedby="matKhau-error" aria-invalid="true">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="MatKhauXacNhan" class="text-info">Xác nhận mật khẩu</label><br />
+                                <div>
+                                    <input class="form-control text-box single-line input-validation-error"
+                                           data-val="true" data-val-required="Phải nhập mật khẩu xác nhận!"
+                                           id="MatkhauXacNhan" name="MatKhauXacNhan" type="password" value="" aria-
+                                           describedby="MatkhauXacNhan-error" aria-invalid="true">
+                                    @ViewData["NhapMKXN"]
+                                    @ViewData["MatKhauGiongNhau"]
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+
+                                <input type="submit" name="submit" class="btn btn-info btn-md" value="Đăng ký">
+                                
+                                <a href="@Url.Action("Index", "Sneaker")" class="btn btn-info btn-md">Trở lại</a>
+                            </div>
+                            <div id="register-link" class="text-right">
+                                
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: black;
+        height: 100vh;
+    }
+
+    #login .container #login-row #login-column #login-box {
+        margin-top: 50px;
+        margin-left: 280px;
+        max-width: 600px;
+        height: 650px;
+        border: 1px solid #9C9C9C;
+        background-color: #EAEAEA;
+    }
+    .title {
+        display: flex;
+        justify-content: space-between;
+    } 
+
+        #login .container #login-row #login-column #login-box #login-form {
+            padding: 20px;
+            position: center;
+        }
+
+            #login .container #login-row #login-column #login-box #login-form #register-link {
+                margin-top: -85px;
+            }
+</style>
